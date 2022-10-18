@@ -1,0 +1,15 @@
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/bin/Debug/netstandard2.0/Jenkins18Oct.deps.json
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/bin/Debug/netstandard2.0/Jenkins18Oct.dll
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/bin/Debug/netstandard2.0/ref/Jenkins18Oct.dll
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/bin/Debug/netstandard2.0/Jenkins18Oct.pdb
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.csproj.AssemblyReference.cache
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.AssemblyInfoInputs.cache
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.AssemblyInfo.cs
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.csproj.CoreCompileInputs.cache
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.dll
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/ref/Jenkins18Oct.dll
+/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct/obj/Debug/netstandard2.0/Jenkins18Oct.pdb

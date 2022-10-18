@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Jenkins18Oct.iOS.app/Jenkins18Oct.iOS">
+      <BCSymbolMapName>Jenkins18Oct.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Jenkins18Oct.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 14 plus-16.0/mtouch-symbols.list</SymbolFile>
+      <DSymName>Jenkins18Oct.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/susingh/Projects/Jenkins18Oct/Jenkins18Oct.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
