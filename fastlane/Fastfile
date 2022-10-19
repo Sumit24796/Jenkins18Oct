@@ -1,0 +1,35 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+platform :ios do
+  lane :example do
+    souyuz(
+      platform: "ios",
+      build_configuration: "Release",
+      plist_path: "/Users/susingh/Projects/JenkinsFastlaneSetUPProj/Jenkins18Oct.iOS/Info.plist",
+)
+  end
+end
+platform :android do
+  lane :example do
+    souyuz(
+      platform: "android",
+      build_configuration: "Release",
+      keystore_path: "/Users/susingh/Library/Developer/Xamarin/Keystore/androidDemoCert/androidDemoCert.keystore",
+      keystore_alias: "androiddemocert",
+      keystore_password: "123456"
+    )
+  end
+end
