@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5D3A62C6-E7E7-4DA8-B0F8-16403CEF525D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jenkins18Oct/App.xaml.cs">
+    <Files>
+      <File FileName="Jenkins18Oct/App.xaml.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jenkins18Oct" expanded="True">
+            <Node name="Jenkins18Oct" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="Jenkins18Oct.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Jenkins18Oct.iOS" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jenkins18Oct.Android PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.ItemProperties.Jenkins18Oct.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3E4EA9BA-B33E-4E06-BABB-22C1ECC42C19" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
